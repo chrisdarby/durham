@@ -23,7 +23,7 @@ To auth:
 http://127.0.0.1:8000/oauth/token
 
 [
-username => admin1@test.com (or other user)
+username => admin1@test.com (or other user - seeded emails for standard users can be seen by authing as and admin user)
 password => 123456
 grant_type => password
 client_id => <client_id>
